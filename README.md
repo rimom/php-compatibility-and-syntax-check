@@ -25,6 +25,7 @@ At the end of the execution, a folder called **php_syntax_and_compatibility_repo
 7. Save the Report files
 8. Clean upp all the created files
 
+
+
 Feel free to change whatever you want
-# php-compatibility-and-syntaxe-check
-# php-compatibility-and-syntaxe-check
+
